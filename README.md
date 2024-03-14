@@ -1,6 +1,4 @@
-# bead-art
-
-Perler bead color editor
+# Perler bead color editor
 
 
 Usage:
